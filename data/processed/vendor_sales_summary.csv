@@ -1,0 +1,5 @@
+VendorNumber,VendorName,Brand,Description,PurchasePrice,ActualPrice,Volume,TotalPurchaseQuantity,TotalPurchaseDollars,TotalSalesQuantity,TotalSalesDollars,TotalSalesPrice,TotalExciseTax,FreightCost,GrossProfit,ProfitMargin,StockTurnover,SalesToPurchaseRatio
+480,BACARDI USA INC,126,Grey Goose Vodka,20.14,32.99,1000.0,39,785.46,0,0,0,0,4799.25,-785.46,0,0.0,0.0
+480,BACARDI USA INC,903,Bombay Sapphire Gin,18.79,24.99,1000.0,14,263.06,0,0,0,0,4799.25,-263.06,0,0.0,0.0
+480,BACARDI USA INC,508,Bacardi Superior Rum,9.77,12.99,1000.0,9,87.93,0,0,0,0,4799.25,-87.93,0,0.0,0.0
+480,BACARDI USA INC,810,Bacardi Black Razz,7.19,11.99,750.0,11,79.09,0,0,0,0,4799.25,-79.09,0,0.0,0.0
