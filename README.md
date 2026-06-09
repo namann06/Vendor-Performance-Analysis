@@ -1,9 +1,4 @@
-# Vendor Performance Analysis & Optimization Pipeline 📊🚚
-
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Database](https://img.shields.io/badge/database-SQLite-green.svg)](https://www.sqlite.org/)
-[![Visualization](https://img.shields.io/badge/visualization-Power%20BI-yellow.svg)](https://powerbi.microsoft.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Vendor Performance Analysis & Optimization Pipeline 
 
 An end-to-end data engineering and analytics pipeline designed to evaluate vendor performance, optimize product pricing, and identify profitability opportunities. This project ingests transactional inventory, purchase, and sales logs (spanning over 12 million records), processes them in a local relational database, and exposes insights through statistical modeling and interactive dashboards.
 
